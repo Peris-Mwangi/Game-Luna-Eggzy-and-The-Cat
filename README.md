@@ -1,4 +1,8 @@
-# Game: Luna-Eggzy-and-The-Cat
+# Game: Luna Eggzy and The Cat
+
+You will need to install the pygame module for this Python Game
+
+# The Game Explained
 
 Luna and Eggzy (yes, from Kingsman, The Secret Service) are our two Japanese Spitz doggies. They are mother and daughter, Luna is the mom. They have very different relationships with our cat. Luna and the cat are best friends, but Eggzy and the cat are enemies. Luna and Eggzy have a nice mother daughter relationship full of support and snuggles.
 
